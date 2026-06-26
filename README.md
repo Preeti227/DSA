@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Preeti227/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Preeti227/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Preeti227/DSA/tree/master/0875-koko-eating-bananas) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/Preeti227/DSA/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0904-fruit-into-baskets](https://github.com/Preeti227/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Preeti227/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Preeti227/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Preeti227/DSA/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Preeti227/DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Preeti227/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/Preeti227/DSA/tree/master/0898-bitwise-ors-of-subarrays) |
 ## Recursion
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Preeti227/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Preeti227/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Preeti227/DSA/tree/master/0268-missing-number) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/Preeti227/DSA/tree/master/0898-bitwise-ors-of-subarrays) |
 ## Sorting
 |  |
 | ------- |
