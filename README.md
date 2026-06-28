@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Preeti227/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0387-first-unique-character-in-a-string](https://github.com/Preeti227/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0402-remove-k-digits](https://github.com/Preeti227/DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Preeti227/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Preeti227/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Two Pointers
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Preeti227/DSA/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/Preeti227/DSA/tree/master/0402-remove-k-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/Preeti227/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Preeti227/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
@@ -172,6 +174,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Preeti227/DSA/tree/master/0402-remove-k-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/Preeti227/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Preeti227/DSA/tree/master/2104-sum-of-subarray-ranges) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Preeti227/DSA/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
