@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Preeti227/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Preeti227/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Preeti227/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/Preeti227/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Preeti227/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Preeti227/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Preeti227/DSA/tree/master/0088-merge-sorted-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Preeti227/DSA/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/Preeti227/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Preeti227/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Preeti227/DSA/tree/master/0509-fibonacci-number) |
@@ -208,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Preeti227/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Preeti227/DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
