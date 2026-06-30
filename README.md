@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Preeti227/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Preeti227/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Preeti227/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1572-matrix-diagonal-sum](https://github.com/Preeti227/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [2104-sum-of-subarray-ranges](https://github.com/Preeti227/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Preeti227/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3731-find-missing-elements](https://github.com/Preeti227/DSA/tree/master/3731-find-missing-elements) |
@@ -217,4 +218,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Preeti227/DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Preeti227/DSA/tree/master/0074-search-a-2d-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/Preeti227/DSA/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
