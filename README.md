@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Preeti227/DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Preeti227/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Preeti227/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Preeti227/DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Preeti227/DSA/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Preeti227/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/Preeti227/DSA/tree/master/1512-number-of-good-pairs) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Preeti227/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Preeti227/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Preeti227/DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Preeti227/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Preeti227/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Preeti227/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Preeti227/DSA/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Preeti227/DSA/tree/master/0342-power-of-four) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Preeti227/DSA/tree/master/0898-bitwise-ors-of-subarrays) |
 ## Sorting
 |  |
