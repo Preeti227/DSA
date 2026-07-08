@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Preeti227/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Preeti227/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Preeti227/DSA/tree/master/0048-rotate-image) |
+| [0172-factorial-trailing-zeroes](https://github.com/Preeti227/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Preeti227/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Preeti227/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Preeti227/DSA/tree/master/0263-ugly-number) |
