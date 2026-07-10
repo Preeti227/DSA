@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Preeti227/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Preeti227/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Preeti227/DSA/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Preeti227/DSA/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Preeti227/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Preeti227/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Preeti227/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -297,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Preeti227/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Preeti227/DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
