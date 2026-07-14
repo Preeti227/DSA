@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Preeti227/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Preeti227/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Preeti227/DSA/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Preeti227/DSA/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Preeti227/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Preeti227/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Preeti227/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Preeti227/DSA/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/Preeti227/DSA/tree/master/0402-remove-k-digits) |
+| [0739-daily-temperatures](https://github.com/Preeti227/DSA/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Preeti227/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Preeti227/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Preeti227/DSA/tree/master/0402-remove-k-digits) |
+| [0739-daily-temperatures](https://github.com/Preeti227/DSA/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Preeti227/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Preeti227/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Greedy
