@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Preeti227/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1207-unique-number-of-occurrences](https://github.com/Preeti227/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Preeti227/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Preeti227/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Preeti227/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/Preeti227/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Preeti227/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-bitwise-ors-of-subarrays](https://github.com/Preeti227/DSA/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0907-sum-of-subarray-minimums](https://github.com/Preeti227/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1137-n-th-tribonacci-number](https://github.com/Preeti227/DSA/tree/master/1137-n-th-tribonacci-number) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Preeti227/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Recursion
 |  |
 | ------- |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Preeti227/DSA/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/Preeti227/DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Preeti227/DSA/tree/master/0074-search-a-2d-matrix) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Preeti227/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1572-matrix-diagonal-sum](https://github.com/Preeti227/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Preeti227/DSA/tree/master/1672-richest-customer-wealth) |
 ## Linked List
