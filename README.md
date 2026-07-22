@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Preeti227/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1137-n-th-tribonacci-number](https://github.com/Preeti227/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Preeti227/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Preeti227/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Recursion
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Preeti227/DSA/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Preeti227/DSA/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Preeti227/DSA/tree/master/1108-defanging-an-ip-address) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Preeti227/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Preeti227/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Preeti227/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
