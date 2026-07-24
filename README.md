@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Preeti227/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Preeti227/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Preeti227/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Preeti227/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3731-find-missing-elements](https://github.com/Preeti227/DSA/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Preeti227/DSA/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Preeti227/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Preeti227/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Preeti227/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Preeti227/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Preeti227/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Preeti227/DSA/tree/master/0342-power-of-four) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Preeti227/DSA/tree/master/0898-bitwise-ors-of-subarrays) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Preeti227/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -374,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Preeti227/DSA/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Preeti227/DSA/tree/master/0841-keys-and-rooms) |
+## Enumeration
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Preeti227/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
