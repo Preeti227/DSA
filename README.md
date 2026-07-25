@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Preeti227/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Preeti227/DSA/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Preeti227/DSA/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Preeti227/DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Preeti227/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Preeti227/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Preeti227/DSA/tree/master/0229-majority-element-ii) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Preeti227/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Preeti227/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Preeti227/DSA/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Preeti227/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Simulation
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Preeti227/DSA/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/Preeti227/DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Preeti227/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Preeti227/DSA/tree/master/0200-number-of-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Preeti227/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1572-matrix-diagonal-sum](https://github.com/Preeti227/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Preeti227/DSA/tree/master/1672-richest-customer-wealth) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Preeti227/DSA/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Preeti227/DSA/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Preeti227/DSA/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Preeti227/DSA/tree/master/0841-keys-and-rooms) |
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Preeti227/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Preeti227/DSA/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Preeti227/DSA/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Preeti227/DSA/tree/master/1971-find-if-path-exists-in-graph) |
