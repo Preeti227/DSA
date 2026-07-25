@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Preeti227/DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Preeti227/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Preeti227/DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [0994-rotting-oranges](https://github.com/Preeti227/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Preeti227/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Preeti227/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1207-unique-number-of-occurrences](https://github.com/Preeti227/DSA/tree/master/1207-unique-number-of-occurrences) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Preeti227/DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Preeti227/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Preeti227/DSA/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/Preeti227/DSA/tree/master/0994-rotting-oranges) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Preeti227/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1572-matrix-diagonal-sum](https://github.com/Preeti227/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Preeti227/DSA/tree/master/1672-richest-customer-wealth) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Preeti227/DSA/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Preeti227/DSA/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Preeti227/DSA/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/Preeti227/DSA/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Preeti227/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Depth-First Search
 |  |
