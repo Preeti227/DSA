@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Preeti227/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Preeti227/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Preeti227/DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Preeti227/DSA/tree/master/0012-integer-to-roman) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Preeti227/DSA/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Preeti227/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Preeti227/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Preeti227/DSA/tree/master/0342-power-of-four) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Preeti227/DSA/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Preeti227/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Preeti227/DSA/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Preeti227/DSA/tree/master/0876-middle-of-the-linked-list) |
