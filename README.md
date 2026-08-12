@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Preeti227/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Preeti227/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Preeti227/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Preeti227/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Preeti227/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3731-find-missing-elements](https://github.com/Preeti227/DSA/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Preeti227/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Preeti227/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Preeti227/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Preeti227/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Preeti227/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Preeti227/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Preeti227/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Preeti227/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/Preeti227/DSA/tree/master/3731-find-missing-elements) |
 ## String
 |  |
