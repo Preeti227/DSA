@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Preeti227/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Preeti227/DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Preeti227/DSA/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Preeti227/DSA/tree/master/0064-minimum-path-sum) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Preeti227/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Preeti227/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Preeti227/DSA/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Preeti227/DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Preeti227/DSA/tree/master/0067-add-binary) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Preeti227/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Preeti227/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Preeti227/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Preeti227/DSA/tree/master/0075-sort-colors) |
@@ -499,4 +502,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Preeti227/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Preeti227/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Preeti227/DSA/tree/master/0938-range-sum-of-bst) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Preeti227/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
