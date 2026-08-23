@@ -495,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Preeti227/DSA/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Preeti227/DSA/tree/master/0577-employee-bonus) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Preeti227/DSA/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0619-biggest-single-number](https://github.com/Preeti227/DSA/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Preeti227/DSA/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/Preeti227/DSA/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Preeti227/DSA/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
