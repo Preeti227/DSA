@@ -499,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/Preeti227/DSA/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/Preeti227/DSA/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Preeti227/DSA/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1075-project-employees-i](https://github.com/Preeti227/DSA/tree/master/1075-project-employees-i) |
 | [1251-average-selling-price](https://github.com/Preeti227/DSA/tree/master/1251-average-selling-price) |
 | [1661-average-time-of-process-per-machine](https://github.com/Preeti227/DSA/tree/master/1661-average-time-of-process-per-machine) |
 | [1934-confirmation-rate](https://github.com/Preeti227/DSA/tree/master/1934-confirmation-rate) |
