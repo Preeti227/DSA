@@ -1,54 +1,52 @@
 class Solution {
-    public boolean canFinish(int numCourses, int[][] prerequisites) {
+    public boolean canFinish(int n, int[][] pre) {
 
-        // Adjacency list
-        List<List<Integer>> graph = new ArrayList<>();
+        List<List<Integer>> adj = new ArrayList<>();
 
-        for (int i = 0; i < numCourses; i++) {
-            graph.add(new ArrayList<>());
+        for (int i = 1; i <= n; i++) {
+            adj.add(new ArrayList<>());
         }
 
-        // indegree[i] = number of prerequisites course i has
-        int[] indegree = new int[numCourses];
+        int[] indegree = new int[n];
+        boolean[] visited = new boolean[n];
 
-        // Build graph
-        for (int[] pre : prerequisites) {
-            int course = pre[0];
-            int prerequisite = pre[1];
+        for (int i = 0; i < pre.length; i++) {
+            int a = pre[i][0];
+            int b = pre[i][1];
 
-            graph.get(prerequisite).add(course);
-            indegree[course]++;
+            adj.get(b).add(a);
+            indegree[a]++;
         }
 
-        Queue<Integer> queue = new LinkedList<>();
+        Queue<Integer> q = new LinkedList<>();
+        List<Integer> ans = new ArrayList<>();
 
-        // Courses having no prerequisites
-        for (int i = 0; i < numCourses; i++) {
+        for (int i = 0; i < n; i++) {
             if (indegree[i] == 0) {
-                queue.offer(i);
+                q.add(i);
+                visited[i] = true;
             }
         }
 
-        int completedCourses = 0;
+        while (q.size() > 0) {
 
-        while (!queue.isEmpty()) {
+            int front = q.remove();
+            ans.add(front);
 
-            int current = queue.poll();
-            completedCourses++;
+            for (int ele : adj.get(front)) {
 
-            // Courses dependent on current course
-            for (int nextCourse : graph.get(current)) {
+                indegree[ele]--;
 
-                indegree[nextCourse]--;
-
-                // All prerequisites completed
-                if (indegree[nextCourse] == 0) {
-                    queue.offer(nextCourse);
+                if (indegree[ele] == 0) {
+                    q.add(ele);
+                    visited[ele] = true;
                 }
             }
         }
 
-        // If all courses were processed, no cycle exists
-        return completedCourses == numCourses;
+        if (ans.size() == n)
+            return true;
+        else
+            return false;
     }
 }
