@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Preeti227/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Preeti227/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Preeti227/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Preeti227/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Preeti227/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Preeti227/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Preeti227/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Preeti227/DSA/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Preeti227/DSA/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/Preeti227/DSA/tree/master/0402-remove-k-digits) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Preeti227/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Preeti227/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Heap (Priority Queue)
 |  |
