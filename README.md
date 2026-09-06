@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Preeti227/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Preeti227/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Preeti227/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0743-network-delay-time](https://github.com/Preeti227/DSA/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/Preeti227/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Preeti227/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Preeti227/DSA/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Preeti227/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Preeti227/DSA/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Preeti227/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Preeti227/DSA/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Preeti227/DSA/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/Preeti227/DSA/tree/master/0994-rotting-oranges) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Preeti227/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Preeti227/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Preeti227/DSA/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Preeti227/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Preeti227/DSA/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Preeti227/DSA/tree/master/0841-keys-and-rooms) |
 | [0938-range-sum-of-bst](https://github.com/Preeti227/DSA/tree/master/0938-range-sum-of-bst) |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Preeti227/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Preeti227/DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Preeti227/DSA/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Preeti227/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Preeti227/DSA/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Preeti227/DSA/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Preeti227/DSA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -571,4 +575,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Preeti227/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Preeti227/DSA/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Preeti227/DSA/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
