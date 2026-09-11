@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Preeti227/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Preeti227/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Preeti227/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Preeti227/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Preeti227/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Preeti227/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Preeti227/DSA/tree/master/3731-find-missing-elements) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Preeti227/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Preeti227/DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Preeti227/DSA/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Preeti227/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Preeti227/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Preeti227/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Preeti227/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Preeti227/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Preeti227/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Preeti227/DSA/tree/master/3731-find-missing-elements) |
 ## String
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Preeti227/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Preeti227/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Tree
 |  |
