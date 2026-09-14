@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Preeti227/DSA/tree/master/1512-number-of-good-pairs) |
 | [1514-path-with-maximum-probability](https://github.com/Preeti227/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1572-matrix-diagonal-sum](https://github.com/Preeti227/DSA/tree/master/1572-matrix-diagonal-sum) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Preeti227/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Preeti227/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/Preeti227/DSA/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/Preeti227/DSA/tree/master/1748-sum-of-unique-elements) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Preeti227/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Preeti227/DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Preeti227/DSA/tree/master/0785-is-graph-bipartite) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Preeti227/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Preeti227/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Preeti227/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Simulation
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Preeti227/DSA/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Preeti227/DSA/tree/master/0841-keys-and-rooms) |
 | [1514-path-with-maximum-probability](https://github.com/Preeti227/DSA/tree/master/1514-path-with-maximum-probability) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Preeti227/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Preeti227/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Enumeration
 |  |
@@ -603,4 +606,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Preeti227/DSA/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/Preeti227/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Preeti227/DSA/tree/master/1631-path-with-minimum-effort) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Preeti227/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Preeti227/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Preeti227/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Preeti227/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
