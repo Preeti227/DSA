@@ -7,7 +7,6 @@ FROM Employees e
 JOIN Employees r
     ON e.employee_id = r.reports_to
 GROUP BY 
-    e.employee_id,
-    e.name
+    e.employee_id
 ORDER BY 
     e.employee_id;
