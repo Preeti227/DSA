@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Preeti227/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Preeti227/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Preeti227/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/Preeti227/DSA/tree/master/1020-number-of-enclaves) |
 | [1207-unique-number-of-occurrences](https://github.com/Preeti227/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Preeti227/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Preeti227/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Preeti227/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Preeti227/DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Preeti227/DSA/tree/master/0785-is-graph-bipartite) |
+| [1020-number-of-enclaves](https://github.com/Preeti227/DSA/tree/master/1020-number-of-enclaves) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Preeti227/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Preeti227/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Preeti227/DSA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Preeti227/DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Preeti227/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Preeti227/DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Preeti227/DSA/tree/master/1020-number-of-enclaves) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Preeti227/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1572-matrix-diagonal-sum](https://github.com/Preeti227/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1631-path-with-minimum-effort](https://github.com/Preeti227/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -478,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Preeti227/DSA/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Preeti227/DSA/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/Preeti227/DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Preeti227/DSA/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/Preeti227/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Preeti227/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Depth-First Search
@@ -494,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Preeti227/DSA/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Preeti227/DSA/tree/master/0841-keys-and-rooms) |
 | [0938-range-sum-of-bst](https://github.com/Preeti227/DSA/tree/master/0938-range-sum-of-bst) |
+| [1020-number-of-enclaves](https://github.com/Preeti227/DSA/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/Preeti227/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Preeti227/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
