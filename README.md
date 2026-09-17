@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Preeti227/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Preeti227/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Preeti227/DSA/tree/master/0485-max-consecutive-ones) |
+| [0542-01-matrix](https://github.com/Preeti227/DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Preeti227/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Preeti227/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Preeti227/DSA/tree/master/0704-binary-search) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Preeti227/DSA/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Preeti227/DSA/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Preeti227/DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0542-01-matrix](https://github.com/Preeti227/DSA/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/Preeti227/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Preeti227/DSA/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0907-sum-of-subarray-minimums](https://github.com/Preeti227/DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Preeti227/DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Preeti227/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Preeti227/DSA/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Preeti227/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Preeti227/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Preeti227/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Preeti227/DSA/tree/master/1020-number-of-enclaves) |
@@ -478,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Preeti227/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Preeti227/DSA/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Preeti227/DSA/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/Preeti227/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Preeti227/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Preeti227/DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Preeti227/DSA/tree/master/0743-network-delay-time) |
