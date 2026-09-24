@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Preeti227/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Preeti227/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Preeti227/DSA/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/Preeti227/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Preeti227/DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Preeti227/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Preeti227/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Preeti227/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Preeti227/DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Preeti227/DSA/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/Preeti227/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Preeti227/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Preeti227/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Preeti227/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Preeti227/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Preeti227/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Preeti227/DSA/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/Preeti227/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Preeti227/DSA/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Preeti227/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Preeti227/DSA/tree/master/0509-fibonacci-number) |
@@ -689,4 +692,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Preeti227/DSA/tree/master/0494-target-sum) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Preeti227/DSA/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
