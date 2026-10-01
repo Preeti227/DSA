@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Preeti227/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Preeti227/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Preeti227/DSA/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/Preeti227/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Preeti227/DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Preeti227/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Preeti227/DSA/tree/master/0125-valid-palindrome) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Preeti227/DSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Preeti227/DSA/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Preeti227/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Preeti227/DSA/tree/master/0234-palindrome-linked-list) |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Preeti227/DSA/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Preeti227/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## String Matching
 |  |
